@@ -128,7 +128,7 @@ plt.show()
 [모델 선택과정](https://github.com/lhmlhm1111/Data_GongHak/blob/master/%EC%97%AC%EB%9F%AC%EA%B0%80%EC%A7%80_%EB%AA%A8%EB%8D%B8_%EB%8F%8C%EB%A0%A4%EB%B3%B8_%EA%B2%B0%EA%B3%BC.ipynb)
 
 
-[최신 자료 예측 결과](https://github.com/lhmlhm1111/Data_GongHak/blob/master/%EB%AA%A8%EB%8D%B8/final_%EC%B5%9C%EC%A2%85_%EC%83%88%EB%88%84%EB%A6%AC%EB%8B%B9%2B%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9.ipynb)
+[최신 자료 예측 결과](https://raw.githubusercontent.com/lhmlhm1111/Data_GongHak/master/%EB%AA%A8%EB%8D%B8/final_%EC%B5%9C%EC%A2%85_%EC%83%88%EB%88%84%EB%A6%AC%EB%8B%B9%2B%EB%8D%94%EB%B6%88%EC%96%B4%EB%AF%BC%EC%A3%BC%EB%8B%B9_%EB%91%98%EB%8B%A4%EB%9E%9C%ED%8F%AC.ipynb)
 
 # 결론
 
